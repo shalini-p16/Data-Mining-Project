@@ -1,0 +1,1291 @@
+t # 0
+v 0 _
+v 1 _
+e 0 1 sup
+
+Support: 36
+
+-----------------
+
+t # 1
+v 0 _
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 und
+
+Support: 9
+
+-----------------
+
+t # 2
+v 0 _
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 und
+e 2 3 und
+
+Support: 2
+
+-----------------
+
+t # 3
+v 0 _
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 sup
+
+Support: 6
+
+-----------------
+
+t # 4
+v 0 _
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 sup
+e 1 3 und
+
+Support: 1
+
+-----------------
+
+t # 5
+v 0 _
+v 1 _
+e 0 1 und
+
+Support: 36
+
+-----------------
+
+t # 6
+v 0 _
+v 1 _
+v 2 _
+e 0 1 und
+e 1 2 und
+
+Support: 5
+
+-----------------
+
+t # 7
+v 0 _
+v 1 _
+e 0 1 add
+
+Support: 18
+
+-----------------
+
+t # 8
+v 0 _
+v 1 _
+v 2 _
+e 0 1 add
+e 1 2 und
+
+Support: 1
+
+-----------------
+
+t # 9
+v 0 _
+v 1 _
+v 2 _
+e 0 1 add
+e 1 2 sup
+
+Support: 2
+
+-----------------
+
+t # 10
+v 0 _
+v 1 _
+v 2 _
+e 0 1 add
+e 1 2 reb
+
+Support: 6
+
+-----------------
+
+t # 11
+v 0 _
+v 1 _
+v 2 _
+v 3 _
+e 0 1 add
+e 1 2 reb
+e 2 3 reb
+
+Support: 2
+
+-----------------
+
+t # 12
+v 0 _
+v 1 _
+v 2 _
+v 3 _
+e 0 1 add
+e 1 2 reb
+e 2 3 und
+
+Support: 2
+
+-----------------
+
+t # 13
+v 0 _
+v 1 _
+e 0 1 reb
+
+Support: 23
+
+-----------------
+
+t # 14
+v 0 _
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 reb
+
+Support: 3
+
+-----------------
+
+t # 15
+v 0 _
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 und
+
+Support: 7
+
+-----------------
+
+t # 16
+v 0 _
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 sup
+
+Support: 1
+
+-----------------
+
+t # 17
+v 0 CC
+v 1 _
+e 0 1 reb
+
+Support: 43
+
+-----------------
+
+t # 18
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 sup
+
+Support: 7
+
+-----------------
+
+t # 19
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 1 2 sup
+e 1 3 und
+
+Support: 1
+
+-----------------
+
+t # 20
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 1 2 sup
+e 1 3 sup
+
+Support: 1
+
+-----------------
+
+t # 21
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 sup
+
+Support: 3
+
+-----------------
+
+t # 22
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 sup
+e 3 4 sup
+
+Support: 1
+
+-----------------
+
+t # 23
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 0 4 sup
+e 1 2 sup
+
+Support: 1
+
+-----------------
+
+t # 24
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 1 2 sup
+e 2 3 add
+
+Support: 1
+
+-----------------
+
+t # 25
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 und
+
+Support: 14
+
+-----------------
+
+t # 26
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 und
+
+Support: 10
+
+-----------------
+
+t # 27
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 0 4 sup
+e 1 2 und
+
+Support: 5
+
+-----------------
+
+t # 28
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 reb
+e 0 3 sup
+e 0 4 sup
+e 0 5 sup
+e 1 2 und
+
+Support: 1
+
+-----------------
+
+t # 29
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 und
+e 3 4 add
+
+Support: 2
+
+-----------------
+
+t # 30
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 reb
+e 0 3 sup
+e 0 5 sup
+e 1 2 und
+e 3 4 add
+
+Support: 1
+
+-----------------
+
+t # 31
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 und
+e 3 4 sup
+
+Support: 2
+
+-----------------
+
+t # 32
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 reb
+e 0 3 sup
+e 0 5 sup
+e 1 2 und
+e 3 4 sup
+
+Support: 1
+
+-----------------
+
+t # 33
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 und
+e 3 4 exa
+
+Support: 1
+
+-----------------
+
+t # 34
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 3 reb
+e 1 2 und
+
+Support: 1
+
+-----------------
+
+t # 35
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 1 2 und
+e 2 3 sup
+
+Support: 3
+
+-----------------
+
+t # 36
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 4 sup
+e 1 2 und
+e 2 3 sup
+
+Support: 2
+
+-----------------
+
+t # 37
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 reb
+e 0 4 sup
+e 0 5 sup
+e 1 2 und
+e 2 3 sup
+
+Support: 1
+
+-----------------
+
+t # 38
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 reb
+e 0 2 sup
+
+Support: 32
+
+-----------------
+
+t # 39
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 2 sup
+e 2 3 sup
+
+Support: 10
+
+-----------------
+
+t # 40
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 2 sup
+e 0 4 sup
+e 2 3 sup
+
+Support: 4
+
+-----------------
+
+t # 41
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 reb
+e 0 2 sup
+e 0 4 sup
+e 0 5 sup
+e 2 3 sup
+
+Support: 2
+
+-----------------
+
+t # 42
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+v 6 _
+e 0 1 reb
+e 0 2 sup
+e 0 4 sup
+e 0 5 sup
+e 0 6 sup
+e 2 3 sup
+
+Support: 1
+
+-----------------
+
+t # 43
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 2 sup
+e 2 3 sup
+e 2 4 sup
+
+Support: 1
+
+-----------------
+
+t # 44
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 2 sup
+e 0 3 sup
+
+Support: 15
+
+-----------------
+
+t # 45
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 2 sup
+e 0 3 sup
+e 0 4 sup
+
+Support: 5
+
+-----------------
+
+t # 46
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 reb
+e 0 2 sup
+e 0 3 sup
+e 0 4 sup
+e 0 5 sup
+
+Support: 2
+
+-----------------
+
+t # 47
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 2 sup
+e 2 3 add
+
+Support: 4
+
+-----------------
+
+t # 48
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 2 sup
+e 0 4 sup
+e 2 3 add
+
+Support: 2
+
+-----------------
+
+t # 49
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 2 sup
+e 2 3 exa
+
+Support: 2
+
+-----------------
+
+t # 50
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 reb
+e 0 2 reb
+
+Support: 5
+
+-----------------
+
+t # 51
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 2 reb
+e 0 3 sup
+
+Support: 3
+
+-----------------
+
+t # 52
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 2 reb
+e 0 3 sup
+e 3 4 sup
+
+Support: 1
+
+-----------------
+
+t # 53
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 2 reb
+e 0 3 sup
+e 0 4 sup
+
+Support: 1
+
+-----------------
+
+t # 54
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 reb
+
+Support: 4
+
+-----------------
+
+t # 55
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 reb
+
+Support: 3
+
+-----------------
+
+t # 56
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 reb
+e 3 4 sup
+
+Support: 1
+
+-----------------
+
+t # 57
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 reb
+e 0 3 sup
+e 0 4 sup
+e 1 2 reb
+
+Support: 1
+
+-----------------
+
+t # 58
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 reb
+e 1 2 add
+
+Support: 2
+
+-----------------
+
+t # 59
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 reb
+e 0 3 sup
+e 1 2 add
+
+Support: 1
+
+-----------------
+
+t # 60
+v 0 CC
+v 1 _
+e 0 1 sup
+
+Support: 67
+
+-----------------
+
+t # 61
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 sup
+
+Support: 19
+
+-----------------
+
+t # 62
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 0 3 sup
+e 1 2 sup
+
+Support: 9
+
+-----------------
+
+t # 63
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 0 3 sup
+e 0 4 sup
+e 1 2 sup
+
+Support: 5
+
+-----------------
+
+t # 64
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 sup
+e 0 3 sup
+e 0 4 sup
+e 0 5 sup
+e 1 2 sup
+
+Support: 2
+
+-----------------
+
+t # 65
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 0 3 sup
+e 1 2 sup
+e 3 4 sup
+
+Support: 2
+
+-----------------
+
+t # 66
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+v 5 _
+e 0 1 sup
+e 0 3 sup
+e 0 5 sup
+e 1 2 sup
+e 3 4 sup
+
+Support: 1
+
+-----------------
+
+t # 67
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 sup
+e 1 3 sup
+
+Support: 2
+
+-----------------
+
+t # 68
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 sup
+e 1 3 und
+
+Support: 1
+
+-----------------
+
+t # 69
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 sup
+e 2 3 sup
+
+Support: 1
+
+-----------------
+
+t # 70
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 sup
+e 0 2 sup
+
+Support: 31
+
+-----------------
+
+t # 71
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 0 2 sup
+e 0 3 sup
+
+Support: 12
+
+-----------------
+
+t # 72
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 0 2 sup
+e 0 3 sup
+e 0 4 sup
+
+Support: 4
+
+-----------------
+
+t # 73
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 add
+
+Support: 9
+
+-----------------
+
+t # 74
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 0 3 sup
+e 1 2 add
+
+Support: 3
+
+-----------------
+
+t # 75
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 add
+e 2 3 reb
+
+Support: 3
+
+-----------------
+
+t # 76
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 1 2 add
+e 2 3 reb
+e 3 4 reb
+
+Support: 1
+
+-----------------
+
+t # 77
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 1 2 add
+e 2 3 reb
+e 3 4 und
+
+Support: 1
+
+-----------------
+
+t # 78
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 exa
+
+Support: 7
+
+-----------------
+
+t # 79
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 0 3 sup
+e 1 2 exa
+
+Support: 1
+
+-----------------
+
+t # 80
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 exa
+e 1 3 reb
+
+Support: 1
+
+-----------------
+
+t # 81
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 exa
+e 1 3 und
+
+Support: 2
+
+-----------------
+
+t # 82
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 1 2 exa
+e 1 3 und
+e 3 4 reb
+
+Support: 1
+
+-----------------
+
+t # 83
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 und
+
+Support: 10
+
+-----------------
+
+t # 84
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 und
+e 2 3 und
+
+Support: 3
+
+-----------------
+
+t # 85
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 1 2 und
+e 2 3 und
+e 3 4 sup
+
+Support: 1
+
+-----------------
+
+t # 86
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 0 4 sup
+e 1 2 und
+e 2 3 und
+
+Support: 1
+
+-----------------
+
+t # 87
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 0 3 sup
+e 1 2 und
+
+Support: 3
+
+-----------------
+
+t # 88
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 0 3 sup
+e 0 4 sup
+e 1 2 und
+
+Support: 1
+
+-----------------
+
+t # 89
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 und
+e 2 3 reb
+
+Support: 2
+
+-----------------
+
+t # 90
+v 0 CC
+v 1 _
+v 2 _
+e 0 1 sup
+e 1 2 reb
+
+Support: 5
+
+-----------------
+
+t # 91
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 0 3 sup
+e 1 2 reb
+
+Support: 2
+
+-----------------
+
+t # 92
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+v 4 _
+e 0 1 sup
+e 0 3 sup
+e 0 4 sup
+e 1 2 reb
+
+Support: 1
+
+-----------------
+
+t # 93
+v 0 CC
+v 1 _
+v 2 _
+v 3 _
+e 0 1 sup
+e 1 2 reb
+e 2 3 und
+
+Support: 1
+
+-----------------
+
+t # 94
+v 0 _
+v 1 _
+e 0 1 exa
+
+Support: 11
+
+-----------------
+
+t # 95
+v 0 _
+v 1 _
+v 2 _
+e 0 1 exa
+e 1 2 reb
+
+Support: 2
+
+-----------------
+
+t # 96
+v 0 _
+v 1 _
+v 2 _
+e 0 1 exa
+e 1 2 und
+
+Support: 4
+
+-----------------
+
+t # 97
+v 0 _
+v 1 _
+v 2 _
+v 3 _
+e 0 1 exa
+e 1 2 und
+e 2 3 reb
+
+Support: 2
+
+-----------------
+
+Read:	0.01 s
+Mine:	0.13999999999999999 s
+Total:	0.15 s
